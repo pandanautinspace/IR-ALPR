@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "still-vim-445113-d1",
+    "private_key_id": "809dced2dac594ab70f4b252a3e69b1bf6d7a570",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmrvs31c+K1Wc0\n5XgMO3qqjFGnD5fIgXHZpEzmyzX4sz4PAbPVafwT2zU6o7myX2zIEC+mxE+B95SI\naRQl5TYOCTDL7SdhfAEoUmlYMgZx5jKea4IEqjCOd6WE6baXCz7uAfMIshaTJVZ4\ncWjhK/brTvgrmWyQIFO6NlA1zQwUCZHkus6igWUJo/emUnJLfzn6v+6DzwXTjDqC\nz0lvgeGpEyJS5xHkfML/nCfv/VGXbWt02r8uPnCWvAcKe1uzMgONkViU7FcVTdI+\njbfOOMlRyBMn4GwZQiNGUA63Py1HZycBqoYVxb6Ckhlmx/d73NgiS1STvyEUYQpI\nY+BtHdeTAgMBAAECggEABmJs0Dk0Ymbf2QRoHwtA+AsNzGqEPW9GTTSgfeL5j0AD\nbs4RyXMRp5w1Wxvxg5Z6SUQnEEsM2e20LgqOs+b4w0FkGP3yp5qxhyeiKbMin5Zh\nerycv3s+lwaXZ9vnWffkH3O/448xTGcH9+2EjJR+3FdMpcE0pVfRlaVc8S5eZMv+\nf2WMsXUMnTx9Y5/Xd4p+UfucUNEzOVBE+2FRkGZUeKqcTAvQFiHHZDEUf+zL1J5b\njTNSq8GmlDrBYEgH1oIhAAS241L2Gu+04m1ynrTyhGCTDHTdtpVJ8tp4trpWcnPV\n/elqlNhchNm8etGqRE2ibltY2O6a6GlnS9YB63ci2QKBgQD0TpOSA5oExj1cdp5S\nJRezm7ss28OV8LVrECg80Xgk89m24iKbLh30/GDPxsqn6WLg6GdchjrWeiaCCHt3\nP5whZmJ6rg0pvWTgenXunECQa47qA0uWhTPq2eNpSXiCUTJmfxgWWjoukHZQfpPi\nmce/pWS1tCMU4F5upEnf6wKAvQKBgQDxuXsijxl2NRTS4NuU5GHVICOGJMNXwPAS\n63/N2bzmwENWdZeWgm8PuIcrwF+WbS6savPF4cb7PXJuiWbZMTrxiG849J3efqZg\nlyfeddoP0MHhVzQ2rzyhMcrt+H27lEp1McRFja7rhdxmeMzKF7Q4j4u7XnIV9Lg8\ncECs1nmGjwKBgGUZ02X8iZNqOmB2UiRqZzmTu8zfkTwOpfUNdaldghvAshtFz85q\nMkl828+AU8NTCPFMG+IlRloVqLPtMLLzpvgHd7+PIbFhSErBQuag0PMzH6xl+rTq\noMaSrtKWbgF3+qSB+gTeB+/XJq8/ApIm04vStS+gwVfVVh7xbAT3K0z9AoGBAK9M\n/GfLr4Nya2+jcptAJVMSw7B86M2zNmgCMeVvivctZ6hED3MvlKup/x1Tnf7Rn4+a\n4L8ZRdzeayaOru/ELCMN9tsvS24YG0DhXiCPB12A35o0S8F8xFOCcNCz7TskB/uF\n4/ktDzXvFi+aW6oUFrcOIx/3FnWlzBbIsZ6my+sxAoGBAOGt/7K8KlaVQ9tonwb/\nzZ82gidT1C2ijsklO+Oj/iH3vLU5GPFveTOmda15kBmOYEknLSDxOiORZqDo8wW/\ncH5XOu9wsIgEtmWNk8GATykwpCqOQigcjPKrmVtBJLOLkRVSUf/UacTI4szMZyvI\n7lbkbWzqsX2cNafuMZPdpPU/\n-----END PRIVATE KEY-----\n",
+    "client_email": "upload-server-files@still-vim-445113-d1.iam.gserviceaccount.com",
+    "client_id": "117779489370770176224",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-server-files%40still-vim-445113-d1.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
