@@ -99,5 +99,7 @@ If you use this repository, please cite the original paper:
 
 ## Contact
 
-If you have any questions please contact either of the authors of this repo.
+If you have any questions please contact either of the authors of this repo:
+soheil.lotfi@ip-paris.fr
+kenneth.browder@ip-paris.fr
 
